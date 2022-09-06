@@ -169,3 +169,14 @@ let y11=2;
 Bai11(x11,y11);
 
 // Bai 12
+
+console.log("Bai 12");
+
+function Bai12(mang)
+{
+   console.log("Gia tri cuoi cung cua mang la : " + mang[4]);
+}
+
+let mangSo = [1,2,3,4,5];
+
+Bai12(mangSo);
